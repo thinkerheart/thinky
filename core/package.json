@@ -1,0 +1,17 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "clean": "tsc --build --clean",
+    "build": "tsc"
+  },
+  "author": "Ngoc-Thanh NGUYEN",
+  "license": "ISC",
+  "dependencies": {
+    "mobx": "^5.9.4",
+    "parse": "^3.2.0",
+    "rxjs": "^6.6.7"
+  }
+}
